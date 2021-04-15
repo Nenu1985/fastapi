@@ -1,7 +1,7 @@
 # fastapi
 
 ## install the latest python:
-* wget https://www.python.org/ftp/python/3.9.0/Python-3.9.4.tar.xz
+* wget https://www.python.org/ftp/python/3.9.4/Python-3.9.4.tar.xz
 * tar -xf Python-3.9.4.tar.xz
 * cd Python-3.9.4
 
